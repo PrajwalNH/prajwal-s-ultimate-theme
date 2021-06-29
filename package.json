@@ -6,7 +6,7 @@
   "author": {
     "name": "Prajwal NH"
   },
-    "version": "0.0.1",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.57.0"
     },
@@ -21,7 +21,7 @@
         "color": "#1A2028",
         "theme": "dark"
       },
-      "icon": "images/Icon.png",
+      "icon": "images/icon2.png",
       "categories": [
         "Themes"
       ],
