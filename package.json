@@ -1,0 +1,50 @@
+{
+    "name": "prajwal-s-ultimate-theme",
+    "displayName": "Prajwal's Ultimate Theme",
+    "description": "A theme that takes inspiration from Hitesh Choudhary Sir. Making coding a colourful experience.",
+    "publisher": "PrajwalNH",
+  "author": {
+    "name": "Prajwal NH"
+  },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Prajwal2006/prajwal-s-ultimate-theme"
+      },
+      "bugs": {
+        "url": "https://github.com/Prajwal2006/prajwal-s-ultimate-theme/issues"
+      },
+      "galleryBanner": {
+        "color": "#1A2028",
+        "theme": "dark"
+      },
+      "icon": "images/Icon.png",
+      "categories": [
+        "Themes"
+      ],
+      "keywords": [
+        "Prajwal",
+        "Dark Theme",
+        "Hitesh Choudhary",
+        "teacher",
+        "Colourful",
+        "Enjoyable",
+        "Awesome",
+        "Makes Life better",
+        "Fun",
+        "Red and Pink",
+        "Blue and Purple"
+      ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Prajwal's Ultimate Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Prajwal's Ultimate Theme-color-theme.json"
+            }
+        ]
+    }
+}
