@@ -15,12 +15,12 @@ Please Click [here to give a Feedback on this theme](https://forms.gle/DMXR34skn
 ## Theme Preview
 
 ### JavaScript:
-![PreviewJS](preview/JS_Preview.png)  
+![PreviewJS](https://raw.githubusercontent.com/PrajwalNH/prajwal-s-ultimate-theme/master/preview/JS_Preview.png)  
 
 <br>
 
 ### Python:
-![PreviewPython](preview/PythonPreview.png)
+![PreviewPython](https://raw.githubusercontent.com/PrajwalNH/prajwal-s-ultimate-theme/master/preview/PythonPreview.png)
 
 <br>
 
@@ -33,11 +33,11 @@ Please Click [here to give a Feedback on this theme](https://forms.gle/DMXR34skn
 ## Contact Developer
 
 <a href="https://www.linkedin.com/in/prajwal-nh-1aa910214/">
-<img src="images/LinkedIn.png" alt="drawing" width="28"/>
+<img src="https://raw.githubusercontent.com/PrajwalNH/prajwal-s-ultimate-theme/master/images/LinkedIn.png" alt="drawing" width="28"/>
 </a>
 
 <a href="https://www.instagram.com/prajwalnh2006/">
-<img src="images/Instagram.png" alt="drawing" width="25"/>
+<img src="https://raw.githubusercontent.com/PrajwalNH/prajwal-s-ultimate-theme/master/images/Instagram.png" alt="drawing" width="25"/>
 </a>
 
 <br>
